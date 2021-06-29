@@ -5,7 +5,8 @@ This project uses **Monte Carlo Simulation** to demonstrate the downside of adop
   * Analysis is conducted on `R Programming`;
   * Document is prepared on `R Markdown` and `Latex`;
   * Required packages to replicate: `tseries`, `tidyverse` and `data.table`;
-  * **FULL DISCUSSION**, check *.html* file; **R CODES**, check *.R* file.
+  * **FULL DISCUSSION**, check *`.html`* file; **R CODES**, check *`.R`* file.
 
 # About Delroy Low
+
 
